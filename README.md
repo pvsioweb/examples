@@ -1,5 +1,5 @@
-# PVSio-web Examples
-This repository provides a collection of interactive simulations developed with PVSio-web. The visual front-end of each simulation builds on Web technologies (HTML, CSS, Javascript). Underneath, the the prototype is driven by an executable formal model developed in PVS.
+# PVSio-web examples
+This repository provides a collection of interactive simulations developed with the latest version of PVSio-web (v3.0), which is included in [VSCode-PVS](https://github.com/nasa/vscode-pvs). The visual front-end of each simulation builds on Web technologies (HTML, CSS, Javascript). Underneath, the prototype is driven by an executable formal model developed in PVS.
 
 The examples were develped within [CHI+MED](https://www.chi-med.ac.uk/), as part of a research effort on improving the safety of human-machine interfaces in medical devices.
 
