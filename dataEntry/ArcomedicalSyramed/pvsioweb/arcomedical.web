@@ -1,0 +1,439 @@
+{
+ "pictureFile": "ArcomedicalSyramedSP6000.jpg",
+ "pictureWidth": 776,
+ "pictureHeight": 498,
+ "widgets": [
+  {
+   "id": "hotspot_080de893_9889_4a20_dec3_1ced1cfa0817",
+   "coords": {
+    "top": 51,
+    "left": 163,
+    "width": 24,
+    "height": 35
+   },
+   "name": "disp0",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "15px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "disp0"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_106c2467_5484_47d1_d837_3d44b2faa767",
+   "coords": {
+    "top": 47,
+    "left": 126,
+    "width": 32,
+    "height": 39
+   },
+   "name": "disp1",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "disp1"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_2a18b0f5_2805_4f9b_e3ac_1b7aa9adc228",
+   "coords": {
+    "top": 46,
+    "left": 86,
+    "width": 32,
+    "height": 40
+   },
+   "name": "disp2",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "27px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "disp2"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_23c98261_50f0_4bf2_847b_22bb26070fd1",
+   "coords": {
+    "top": 45,
+    "left": 46,
+    "width": 32,
+    "height": 41
+   },
+   "name": "disp3",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "28px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "disp3"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_d9d49466_6a64_4c32_967c_2515988dd646",
+   "coords": {
+    "top": 9,
+    "left": 161,
+    "width": 35,
+    "height": 27
+   },
+   "name": "up(0)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "up(0)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_5d0ead0b_ca57_4adc_eda7_93aa40d52471",
+   "coords": {
+    "top": 8,
+    "left": 120,
+    "width": 35,
+    "height": 27
+   },
+   "name": "up(1)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "up(1)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_84f9db6a_f19d_4146_ded1_8a5ea7514fa8",
+   "coords": {
+    "top": 7,
+    "left": 78,
+    "width": 35,
+    "height": 27
+   },
+   "name": "up(2)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "up(2)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_65917970_63d9_4514_977c_93628b64d376",
+   "coords": {
+    "top": 7,
+    "left": 34,
+    "width": 35,
+    "height": 27
+   },
+   "name": "up(3)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "up(3)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_dab5698d_23d7_4301_d431_2285ab053d94",
+   "coords": {
+    "top": 95,
+    "left": 44,
+    "width": 35,
+    "height": 27
+   },
+   "name": "dn(3)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "dn(3)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_69520658_b991_4d1f_e33d_3b0e3c11686a",
+   "coords": {
+    "top": 93,
+    "left": 86,
+    "width": 35,
+    "height": 27
+   },
+   "name": "dn(2)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "dn(2)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_da97e94f_4b0b_4546_c6ed_4b8de10ded27",
+   "coords": {
+    "top": 93,
+    "left": 128,
+    "width": 35,
+    "height": 27
+   },
+   "name": "dn(1)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "dn(1)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_04ce2b7e_b504_4e0e_dd1c_80727f6c015f",
+   "coords": {
+    "top": 94,
+    "left": 168,
+    "width": 37,
+    "height": 27
+   },
+   "name": "dn(0)",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "16px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "dn(0)",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  }
+ ]
+}

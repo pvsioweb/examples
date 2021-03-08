@@ -1,0 +1,533 @@
+{
+ "pictureFile": "ivpump1.jpg",
+ "pictureWidth": 445,
+ "pictureHeight": 500,
+ "widgets": [
+  {
+   "id": "hotspot_034ade2e_3690_4da1_c1f8_7b7659573704",
+   "coords": {
+    "top": 131,
+    "left": 120,
+    "width": 116,
+    "height": 31
+   },
+   "name": "display",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "display"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_e4996773_6fc1_4db1_8fb6_cdb7f93d4ae2",
+   "coords": {
+    "top": 134,
+    "left": 279,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn7",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn7",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_314ddcd8_8cb0_42c2_d69a_f11095d10b1d",
+   "coords": {
+    "top": 134,
+    "left": 304,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn8",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn8",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_3c4450e5_e163_433c_c9a9_7160d44bcf2b",
+   "coords": {
+    "top": 134,
+    "left": 330,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn9",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn9",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_c4360c78_955b_43f0_8dd5_8ff4aae765c8",
+   "coords": {
+    "top": 157,
+    "left": 280,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn4",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn4",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_f694b6b8_f847_416a_cb7c_a9219fd5c7d0",
+   "coords": {
+    "top": 158,
+    "left": 305,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn5",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn5",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_7b40fbd9_1744_4134_bf33_fd0987d5fbeb",
+   "coords": {
+    "top": 158,
+    "left": 330,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn6",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn6",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_d218e223_9fa4_4849_bed7_146137a87757",
+   "coords": {
+    "top": 183,
+    "left": 280,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn1",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn1",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_c25a16b8_8dd9_4811_92ae_037b0e5a8c52",
+   "coords": {
+    "top": 184,
+    "left": 306,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn2",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn2",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_70b8b7a2_10f4_401e_8335_b7f40fd593b1",
+   "coords": {
+    "top": 183,
+    "left": 332,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn3",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn3",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_89638cfe_afe8_471b_dd1b_b0e06b2de186",
+   "coords": {
+    "top": 209,
+    "left": 306,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btn0",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btn0",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_d823fe33_977a_4a83_c797_de8cbaabcf07",
+   "coords": {
+    "top": 208,
+    "left": 280,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btnCLR",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btnCLR",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_67a4946e_722e_4d05_e24e_cac961be0769",
+   "coords": {
+    "top": 209,
+    "left": 332,
+    "width": 22,
+    "height": 21
+   },
+   "name": "btnPOINT",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btnPOINT",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_e7255e4d_45af_490e_9c84_44f9d3621537",
+   "coords": {
+    "top": 240,
+    "left": 317,
+    "width": 40,
+    "height": 24
+   },
+   "name": "btnOK",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "btnOK",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  }
+ ]
+}

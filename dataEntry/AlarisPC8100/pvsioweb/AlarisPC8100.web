@@ -1,0 +1,711 @@
+{
+ "pictureFile": "AlarisPC8100.jpg",
+ "pictureWidth": 798,
+ "pictureHeight": 598,
+ "widgets": [
+  {
+   "id": "hotspot_aa44afe3_6061_4443_9395_cfd565b67505",
+   "coords": {
+    "top": 439,
+    "left": 120,
+    "width": 38,
+    "height": 26
+   },
+   "name": "1",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "1",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_2d40f8d0_8363_43df_cbe2_3fd6daf979e8",
+   "coords": {
+    "top": 440,
+    "left": 169,
+    "width": 38,
+    "height": 26
+   },
+   "name": "2",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "2",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_829faca0_728a_44ec_d192_8d3c82c6bcbe",
+   "coords": {
+    "top": 441,
+    "left": 222,
+    "width": 38,
+    "height": 26
+   },
+   "name": "3",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "3",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_9235dcec_b71e_415c_fc47_c6be4a67e606",
+   "coords": {
+    "top": 465,
+    "left": 120,
+    "width": 38,
+    "height": 26
+   },
+   "name": "4",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "4",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_f518df28_6fe6_4d8e_cff3_b88451b95b37",
+   "coords": {
+    "top": 465,
+    "left": 169,
+    "width": 38,
+    "height": 26
+   },
+   "name": "5",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "5",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_97c419de_41e4_4cd9_c51b_a2a580fcd632",
+   "coords": {
+    "top": 465,
+    "left": 221,
+    "width": 38,
+    "height": 26
+   },
+   "name": "6",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "6",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_57c40837_86dc_46a1_8a6f_40ca82c0ca5a",
+   "coords": {
+    "top": 490,
+    "left": 120,
+    "width": 38,
+    "height": 26
+   },
+   "name": "7",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "7",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_e2863d10_c009_4073_f1c7_f4e1cf9eff67",
+   "coords": {
+    "top": 490,
+    "left": 170,
+    "width": 38,
+    "height": 26
+   },
+   "name": "8",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "8",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_25b2c2a2_7ca3_4e55_8263_e056a6b1c32a",
+   "coords": {
+    "top": 491,
+    "left": 222,
+    "width": 38,
+    "height": 26
+   },
+   "name": "9",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "9",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_649cb226_06b1_4511_ad5c_1de7e0e2e047",
+   "coords": {
+    "top": 516,
+    "left": 171,
+    "width": 38,
+    "height": 26
+   },
+   "name": "0",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "0",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_6bb04c67_e795_4c9d_8181_fd6bd3192756",
+   "coords": {
+    "top": 517,
+    "left": 221,
+    "width": 38,
+    "height": 26
+   },
+   "name": "POINT",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "POINT",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_22975410_ede8_4fb1_bc78_12514a1d6a78",
+   "coords": {
+    "top": 514,
+    "left": 122,
+    "width": 38,
+    "height": 26
+   },
+   "name": "CLEAR",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "CLEAR",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_d85caf6e_dff3_4604_ecd0_c36e17e54dca",
+   "coords": {
+    "top": 518,
+    "left": 273,
+    "width": 38,
+    "height": 26
+   },
+   "name": "CANCEL",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "CANCEL",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_8c4ec1b8_7728_40d4_e4a9_793dd381345d",
+   "coords": {
+    "top": 491,
+    "left": 273,
+    "width": 38,
+    "height": 26
+   },
+   "name": "ENTER",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "ENTER",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_371ac32b_e1b9_42cf_ed70_06e6c313fc18",
+   "coords": {
+    "top": 189,
+    "left": 50,
+    "width": 38,
+    "height": 27
+   },
+   "name": "SELECT_RATE",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "SELECT_RATE",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_77473304_bc93_4a0e_ae32_72cd5bc3d68f",
+   "coords": {
+    "top": 221,
+    "left": 51,
+    "width": 38,
+    "height": 27
+   },
+   "name": "SELECT_VTBI",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "SELECT_VTBI",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_e299643c_2191_4296_b9ae_10a7acc482ba",
+   "coords": {
+    "top": 188,
+    "left": 162,
+    "width": 74,
+    "height": 28
+   },
+   "name": "displayRate",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "steelblue",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "displayRate"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_29e1de62_93f5_4bb9_b5de_3f0112aa93eb",
+   "coords": {
+    "top": 220,
+    "left": 162,
+    "width": 74,
+    "height": 28
+   },
+   "name": "displayVTBI",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "steelblue",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "20px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "displayVTBI"
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_a591960b_b8cc_4f4a_e4db_50ac99c81f6c",
+   "coords": {
+    "top": 330,
+    "left": 109,
+    "width": 209,
+    "height": 20
+   },
+   "name": "displayError",
+   "kind": "Display",
+   "cons": "BasicDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "font-family": "sans-serif",
+     "font-size": "12px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "displayError"
+   },
+   "evts": []
+  }
+ ]
+}

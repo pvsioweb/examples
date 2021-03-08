@@ -1,0 +1,117 @@
+{
+ "pictureFile": "NL_250310_grey_large.png",
+ "pictureWidth": 266,
+ "pictureHeight": 162,
+ "widgets": [
+  {
+   "id": "hotspot_4c1d8c38_88f6_4d5d_e058_b21da0354250",
+   "coords": {
+    "top": 32,
+    "left": 60,
+    "width": 126,
+    "height": 37
+   },
+   "name": "display",
+   "kind": "Display",
+   "cons": "NumericDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "black",
+     "cursor": "default",
+     "decimal-font-scale": "0.7",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "display",
+    "cursorName": ""
+   },
+   "evts": []
+  },
+  {
+   "id": "hotspot_8252ffd0_9e87_44c0_e5f2_6d25aa8651b3",
+   "coords": {
+    "top": 84,
+    "left": 200,
+    "width": 45,
+    "height": 49
+   },
+   "name": "DOWN",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "DOWN",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  },
+  {
+   "id": "hotspot_14a65edd_99b0_49ca_8f90_2f824a65e71f",
+   "coords": {
+    "top": 17,
+    "left": 200,
+    "width": 45,
+    "height": 49
+   },
+   "name": "UP",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "click",
+    "buttonName": "UP",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "click"
+   ]
+  }
+ ]
+}

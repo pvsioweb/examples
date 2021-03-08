@@ -1,0 +1,36 @@
+
+Context changed to ~/Work/pvsioweb-examples/AlarisGH/
+Parsing alarisGH_AsenaCC
+alarisGH_AsenaCC parsed in 0.06 seconds
+Typechecking alarisGH_AsenaCC
+alarisGH_AsenaCC typechecked in 0.44s: 9 TCCs, 0 proved, 0 subsumed, 9 unproved
+; While compiling #'_init at top level:
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+; While compiling #'init! at top level:
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+; While compiling #'(:internal init 0) at top level:
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+Warning: Variable condition is never used.
+; While compiling #'_press_up at top level:
+Warning: Variable E44 is never used.
+; While compiling #'(:internal press_up 0) at top level:
+Warning: Variable E57 is never used.
+; While compiling #'_release_key at top level:
+Warning: Variable E63 is never used.
+Warning: Variable E60 is never used.
+; While compiling #'(:internal release_key 0) at top level:
+Warning: Variable E89 is never used.
+Warning: Variable E86 is never used.
+; While compiling #'_press_UP at top level:
+Warning: Variable E98 is never used.
+Warning: Variable E95 is never used.
+Warning: Variable E92 is never used.
+; While compiling #'(:internal press_UP 0) at top level:
+Warning: Variable E138 is never used.
+Warning: Variable E135 is never used.
+Warning: Variable E132 is never used.

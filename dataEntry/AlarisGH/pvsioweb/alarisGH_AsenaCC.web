@@ -1,0 +1,197 @@
+{
+ "pictureFile": "image.jpg",
+ "pictureWidth": 910,
+ "pictureHeight": 426,
+ "widgets": [
+  {
+   "id": "hotspot_4915f545_c118_45c1_bfe3_ab254d72d79d",
+   "coords": {
+    "top": 168,
+    "left": 188,
+    "width": 42,
+    "height": 33
+   },
+   "name": "UP",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "press release",
+    "buttonName": "UP",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "press",
+    "release"
+   ]
+  },
+  {
+   "id": "hotspot_b0029291_a70f_4b32_e7ce_c2e2926c87c3",
+   "coords": {
+    "top": 170,
+    "left": 235,
+    "width": 42,
+    "height": 33
+   },
+   "name": "up",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "press release",
+    "buttonName": "up",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "press",
+    "release"
+   ]
+  },
+  {
+   "id": "hotspot_48a48998_82e7_4db2_9a65_7a786cc3714b",
+   "coords": {
+    "top": 173,
+    "left": 303,
+    "width": 42,
+    "height": 33
+   },
+   "name": "dn",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "press release",
+    "buttonName": "dn",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "press",
+    "release"
+   ]
+  },
+  {
+   "id": "hotspot_eb126c05_4078_44d5_e006_7d95d22d7865",
+   "coords": {
+    "top": 171,
+    "left": 350,
+    "width": 42,
+    "height": 33
+   },
+   "name": "DN",
+   "kind": "Button",
+   "cons": "ButtonEVO",
+   "opt": {
+    "css": {
+     "background": "transparent",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "pointer",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "visible",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "1"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "actions": "press release",
+    "buttonName": "DN",
+    "keyCodes": "",
+    "customFunction": "",
+    "customLabel": ""
+   },
+   "evts": [
+    "press",
+    "release"
+   ]
+  },
+  {
+   "id": "hotspot_75036290_3d9a_4e60_828a_1f3c461622ac",
+   "coords": {
+    "top": 91,
+    "left": 209,
+    "width": 186,
+    "height": 42
+   },
+   "name": "left_display",
+   "kind": "Display",
+   "cons": "NumericDisplayEVO",
+   "opt": {
+    "css": {
+     "background": "black",
+     "box-shadow": "yellow",
+     "color": "white",
+     "cursor": "default",
+     "decimal-font-scale": "0.7",
+     "font-family": "sans-serif",
+     "font-size": "25px",
+     "overflow": "hidden",
+     "text-align": "center",
+     "white-space": "nowrap",
+     "z-index": "0"
+    },
+    "viz": {
+     "visible": "true",
+     "enabled": "true"
+    },
+    "displayName": "left_display",
+    "cursorName": ""
+   },
+   "evts": []
+  }
+ ]
+}
